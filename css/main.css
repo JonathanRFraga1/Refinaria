@@ -70,7 +70,7 @@ label[for='bt_menu'] {
     display: none;
 }
 
-@media(max-width:600px) {
+@media(max-width:200px) {
 
     label[for='bt_menu'] {
         display: block;
